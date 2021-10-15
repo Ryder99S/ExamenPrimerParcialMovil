@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj": {
-                "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj"
+              "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj": {
+                "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj"
               }
             }
           }
@@ -66,12 +66,12 @@
         }
       }
     },
-    "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj": {
+    "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj",
-        "projectName": "ExamenMovil2",
-        "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj",
+        "projectUniqueName": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj",
+        "projectName": "PM2E15235",
+        "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj",
         "packagesPath": "C:\\Users\\rider\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\obj\\",
         "projectStyle": "PackageReference",

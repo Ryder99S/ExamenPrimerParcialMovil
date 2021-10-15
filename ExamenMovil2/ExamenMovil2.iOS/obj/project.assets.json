@@ -268,7 +268,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "ExamenMovil2/1.0.0": {
+      "PM2E15235/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -279,10 +279,10 @@
           "sqlite-net-pcl": "1.8.116"
         },
         "compile": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         }
       }
     },
@@ -553,7 +553,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "ExamenMovil2/1.0.0": {
+      "PM2E15235/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -564,10 +564,10 @@
           "sqlite-net-pcl": "1.8.116"
         },
         "compile": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         }
       }
     },
@@ -838,7 +838,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "ExamenMovil2/1.0.0": {
+      "PM2E15235/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -849,10 +849,10 @@
           "sqlite-net-pcl": "1.8.116"
         },
         "compile": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         }
       }
     },
@@ -1123,7 +1123,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "ExamenMovil2/1.0.0": {
+      "PM2E15235/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1134,10 +1134,10 @@
           "sqlite-net-pcl": "1.8.116"
         },
         "compile": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExamenMovil2.dll": {}
+          "bin/placeholder/PM2E15235.dll": {}
         }
       }
     }
@@ -1660,15 +1660,15 @@
         "xamarin.forms.maps.nuspec"
       ]
     },
-    "ExamenMovil2/1.0.0": {
+    "PM2E15235/1.0.0": {
       "type": "project",
-      "path": "../ExamenMovil2/ExamenMovil2.csproj",
-      "msbuildProject": "../ExamenMovil2/ExamenMovil2.csproj"
+      "path": "../ExamenMovil2/PM2E15235.csproj",
+      "msbuildProject": "../ExamenMovil2/PM2E15235.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "ExamenMovil2 >= 1.0.0",
+      "PM2E15235 >= 1.0.0",
       "Xam.Plugin.Geolocator >= 4.5.0.6",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2125",
@@ -1708,8 +1708,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj": {
-              "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj"
+            "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj": {
+              "projectPath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImQh4ooJRycNV0MJyimntcaeijhmxNLTwtCe0mT+ThV5Sw+YIkh9QptCufN02dY366M5P8WL17WGa0PVOhw1vQ==",
+  "dgSpecHash": "S4zMbhWUCFX9Pb9S1RKM6Gie2448g891MkZvI4HA33ie+J6etATz06a3ZNP5zAxPrhVyE+trJaoUIdQLpi5Fhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2.csproj",
+  "projectFilePath": "C:\\Users\\rider\\source\\repos\\ExamenMovil2\\ExamenMovil2\\ExamenMovil2\\PM2E15235.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rider\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rider\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
