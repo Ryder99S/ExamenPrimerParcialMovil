@@ -1,0 +1,17 @@
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\menuPage.xaml.g.cs
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.AssemblyInfoInputs.cache
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.AssemblyInfo.cs
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.csproj.CoreCompileInputs.cache
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.dll
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ref\ExamenMovil2.dll
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.pdb
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\bin\Debug\netstandard2.0\ExamenMovil2.deps.json
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\bin\Debug\netstandard2.0\ExamenMovil2.dll
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\bin\Debug\netstandard2.0\ref\ExamenMovil2.dll
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\bin\Debug\netstandard2.0\ExamenMovil2.pdb
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\listaUbicaciones.xaml.g.cs
+C:\Users\rider\source\repos\ExamenMovil2\ExamenMovil2\ExamenMovil2\obj\Debug\netstandard2.0\ExamenMovil2.csproj.AssemblyReference.cache
